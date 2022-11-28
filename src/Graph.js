@@ -17,6 +17,7 @@ export default function Graph(){
   }];
   const options= {
     chart: {
+      background:'fff',
       height: 1350,
       type: 'line',
       stacked: false
